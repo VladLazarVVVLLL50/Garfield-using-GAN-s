@@ -70,7 +70,7 @@ This project uses a classic DCGAN approach:
 - 100 epochs, using Binary Cross Entropy loss and Adam optimizers
 - Tracked Generator and Discriminator losses across training
 
-![Training Examples](images/fig9.png)
+
 
 ### 4. Generation
 
